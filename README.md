@@ -1,4 +1,3 @@
-readme_content = """
 # 🧠 AI Chat Assistant with Session Management
 
 This is a Gradio-based chat assistant app that uses a Hugging Face language model to simulate a conversational AI. It supports session-based chat history using SQLite, markdown rendering, and a responsive UI.
