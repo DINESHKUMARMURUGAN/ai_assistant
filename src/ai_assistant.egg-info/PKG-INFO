@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ai_assistant
+Version: 0.1
+Summary: A package to load and run local LLMs using Hugging Face Transformers
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: transformers
+Requires-Dist: torch
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
